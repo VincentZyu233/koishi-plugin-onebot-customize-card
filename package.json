@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-onebot-customize-card",
-  "description": "onebot自定义指令发卡片捏",
+  "description": "通过 OneBot 适配器发送自定义音乐卡片消息，支持自定义指令名、标题、链接、封面及附加文字",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
